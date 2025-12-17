@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:59:57 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9af48a6b3acce2bf-GIG
+
+{"bonus":{"id":58673676,"amount":5.0000,"bonusType":6,"maxWinnings":50.00,"splitWallet":false,"bonusStatus":1,"isPayoutTotalWinning":false}}
