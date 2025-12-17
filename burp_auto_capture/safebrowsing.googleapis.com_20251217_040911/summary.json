@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_040911", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/safebrowsing.googleapis.com_20251217_040911/request_001.txt", 
+      "url": "https://safebrowsing.googleapis.com:443/v4/threatListUpdates:fetch?$ct=application/x-protobuf&key=AIzaSyC7jsptDS3am4tPx4r3nxis7IMjBc5Dovo&$httpMethod=POST&$req=ChUKE25hdmNsaWVudC1hdXRvLWZmb3gaJwgFEAEaGwoNCAUQBhgBIgMwMDEwARCkgB4aAhgLF6WBpCICIAIoARonCAEQARobCg0IARAGGAEiAzAwMTABEJCnExoCGAvwDl9jIgIgAigBGicIAxABGhsKDQgDEAYYASIDMDAxMAEQtp8TGgIYC_hVzBkiAiACKAEaJwgHEAEaGwoNCAcQBhgBIgMwMDEwARCerxMaAhgL67E_kyICIAIoARolCAkQARoZCg0ICRAGGAEiAzAwMTABECQaAhgL2HbCfyICIAIoAQ==", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/safebrowsing.googleapis.com_20251217_040911/response_001.txt", 
+      "timestamp": 1765954565212
+    }
+  ], 
+  "host": "safebrowsing.googleapis.com", 
+  "total_requests": 1
+}
