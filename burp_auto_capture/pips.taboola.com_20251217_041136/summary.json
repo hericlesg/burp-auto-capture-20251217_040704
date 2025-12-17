@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_041136", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/pips.taboola.com_20251217_041136/request_001.txt", 
+      "url": "https://pips.taboola.com:443/", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/pips.taboola.com_20251217_041136/response_001.txt", 
+      "timestamp": 1765954387643
+    }
+  ], 
+  "host": "pips.taboola.com", 
+  "total_requests": 1
+}
