@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:52:46 GMT
+Content-Type: application/json
+Vary: origin, access-control-request-method, access-control-request-headers, Accept-Encoding
+Access-Control-Allow-Origin: https://esportiva.bet.br
+Access-Control-Allow-Credentials: true
+X-Envoy-Upstream-Service-Time: 6
+Server: envoy
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+
+{"errorsWhileComputingFlags":false,"flags":{},"quotaLimited":["recordings"],"requestId":"142e97dd-db7c-46c1-a74a-7f2f7d476449","evaluatedAt":1765954366919,"supportedCompression":["gzip","gzip-js"],"autocapture_opt_out":false,"capturePerformance":{"network_timing":true,"web_vitals":true,"web_vitals_allowed_metrics":null},"config":{"enable_collect_everything":true},"analytics":{"endpoint":"/i/v0/e/"},"elementsChainAsString":true,"autocaptureExceptions":{"endpoint":"/e/"},"sessionRecording":false,"surveys":false,"toolbarParams":{},"isAuthenticated":false,"siteApps":[],"heatmaps":true,"flagsPersistenceDefault":false,"defaultIdentifiedOnly":true,"captureDeadClicks":false,"errorTracking":{"autocaptureExceptions":true,"suppressionRules":[]}}
