@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Server: Varnish
+Retry-After: 0
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://esportiva.bet.br
+Accept-Ranges: bytes
+Date: Wed, 17 Dec 2025 06:53:07 GMT
+Via: 1.1 varnish
+X-Served-By: cache-gru-sbgr1930087-GRU
+X-Cache: HIT
+X-Cache-Hits: 0
+Cache-Control: no-store
+Content-Length: 4
+
+NULL
