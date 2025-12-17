@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251217_040837", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.salesanalytics.io_20251217_040837/request_001.txt", 
+      "url": "https://gum.salesanalytics.io:443/syncframe?topUrl=esportiva.bet.br", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gum.salesanalytics.io_20251217_040837/response_001.txt", 
+      "timestamp": 1765951511599
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gum.salesanalytics.io_20251217_040837/request_002.txt", 
+      "url": "https://gum.salesanalytics.io:443/syncframe?topUrl=esportiva.bet.br", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/gum.salesanalytics.io_20251217_040837/response_002.txt", 
+      "timestamp": 1765954368147
+    }
+  ], 
+  "host": "gum.salesanalytics.io", 
+  "total_requests": 2
+}
