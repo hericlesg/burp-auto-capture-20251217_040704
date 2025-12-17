@@ -1,0 +1,18 @@
+HTTP/2 200 OK
+Cache-Control: private, max-age=1281
+Via: 1.1 google, 1.1 varnish, 1.1 varnish
+X-Request-Id: 3884ae004c3446ebbd671efa7a7fd355
+Server: nginx
+Strict-Transport-Security: max-age=31536000
+Content-Type: application/json
+Accept-Ranges: bytes
+Date: Wed, 17 Dec 2025 06:05:58 GMT
+X-Served-By: cache-gru-sbgr1930086-GRU, cache-gru-sbgr1930086-GRU
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1765951558.343349,VS0,VE275
+Vary: Accept-Encoding
+X-Routing-Origin: QwMaSzgcjgWfCUsEik6AyN--F_merino_mozcloud
+Content-Length: 848
+
+{"suggestions":[{"title":"Weather for GoiÃ¢nia","url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","provider":"accuweather","is_sponsored":false,"score":0.3,"city_name":"GoiÃ¢nia","region_code":"Brazil","current_conditions":{"url":"https://www.accuweather.com/pt/br/goiania/43599/current-weather/43599?lang=pt-br&partner=web_mozilla_adc","summary":"Nublado","icon_id":7,"temperature":{"c":21,"f":70}},"forecast":{"url":"https://www.accuweather.com/pt/br/goiania/43599/daily-weather-forecast/43599?lang=pt-br&partner=web_mozilla_adc","summary":"PrevisÃ£o de perÃ­odos com pancadas de chuva de terÃ§a-feira no fim da noite atÃ© hoje ao final do dia","high":{"c":29,"f":84},"low":{"c":21,"f":70}}}],"request_id":"3884ae004c3446ebbd671efa7a7fd355","client_variants":[],"server_variants":[]}
