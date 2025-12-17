@@ -1,0 +1,16 @@
+HTTP/2 200 OK
+Content-Type: application/json; charset=utf-8
+Date: Wed, 17 Dec 2025 06:53:06 GMT
+Server: Kestrel
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Methods: GET
+Access-Control-Allow-Origin: https://gum.criteo.com
+Cache-Control: no-cache, no-store, must-revalidate
+Expires: 0
+Pragma: no-cache
+Set-Cookie: browser_data=khvfy19pSG9MTmh5TEN3MnpDamFNcDc5Q2JNSDRveWQ2OXBzU3lVcGclMkJ3eVh5ZllDNXZKR282OVVzSWY4ZGd1MjFmNWFTMmF3aXJQY2NmV3MwOGswRG9yT2pBJTNEJTNE; expires=Mon, 11 Jan 2027 06:53:06 GMT; domain=dnacdn.net; path=/; secure; samesite=none
+Server-Processing-Duration-In-Ticks: 149140
+Strict-Transport-Security: max-age=31536000; preload;
+Vary: Accept-Encoding
+
+{"info":"khvfy19pSG9MTmh5TEN3MnpDamFNcDc5Q2JNSDRveWQ2OXBzU3lVcGclMkJ3eVh5ZllDNXZKR282OVVzSWY4ZGd1MjFmNWFTMmF3aXJQY2NmV3MwOGswRG9yT2pBJTNEJTNE"}
