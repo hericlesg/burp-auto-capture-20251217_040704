@@ -1,0 +1,14 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:58:52 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public,max-age=15
+Vary: Accept-Encoding
+Via: 1.1 google
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Cf-Cache-Status: EXPIRED
+Last-Modified: Wed, 17 Dec 2025 06:58:52 GMT
+Server: cloudflare
+Cf-Ray: 9af488d64e0d06c5-GRU
+
+{"topSports":[{"typeId":1,"iconName":"soccer","hasLiveEvents":true,"id":66,"name":"Futebol"},{"typeId":12,"iconName":"basketball","hasLiveEvents":true,"id":67,"name":"Basquete"},{"typeId":317,"iconName":"e-sports-\u002B","hasLiveEvents":false,"id":145,"name":"E-sports \u002B\t\t"},{"typeId":4,"iconName":"tennis","hasLiveEvents":true,"id":68,"name":"T\u00EAnis"},{"typeId":40,"iconName":"mma","hasLiveEvents":false,"id":84,"name":"MMA"},{"typeId":20,"iconName":"american-football","hasLiveEvents":false,"id":75,"name":"Futebol Americano"},{"typeId":19,"iconName":"volleyball","hasLiveEvents":true,"id":69,"name":"V\u00F4lei"},{"typeId":23,"iconName":"futsal","hasLiveEvents":false,"id":88,"name":"Futsal"},{"typeId":34,"iconName":"table-tennis","hasLiveEvents":true,"id":77,"name":"T\u00EAnis de mesa"},{"typeId":16,"iconName":"ice-hockey","hasLiveEvents":false,"id":70,"name":"H\u00F3quei"},{"typeId":13,"iconName":"baseball","hasLiveEvents":true,"id":76,"name":"Beisebol"},{"typeId":318,"iconName":"e-football","hasLiveEvents":true,"id":146,"name":"FIFA"},{"typeId":7,"iconName":"motorsport","hasLiveEvents":false,"id":103,"name":"Esportes Motorizados"},{"typeId":14,"iconName":"cycling","hasLiveEvents":false,"id":89,"name":"Ciclismo"},{"typeId":38,"iconName":"alpine","hasLiveEvents":false,"id":92,"name":"Esqui Alpino"},{"typeId":35,"iconName":"badminton","hasLiveEvents":false,"id":72,"name":"Badminton"},{"typeId":11,"iconName":"boxing","hasLiveEvents":false,"id":71,"name":"Boxe"},{"typeId":5,"iconName":"rugby","hasLiveEvents":false,"id":102,"name":"Rugby"},{"typeId":80,"iconName":"soccer","hasLiveEvents":false,"id":175,"name":"X1"},{"typeId":312,"iconName":"olympics","hasLiveEvents":false,"id":125,"name":"Jogos Ol\u00EDmpicos"}]}
