@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Wed, 17 Dec 2025 06:58:47 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 88
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=15552000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"isUserLocked":false,"isAgency":false,"errorType":0,"currencyId":0,"currencyDisplay":0}
