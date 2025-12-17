@@ -1,0 +1,15 @@
+HTTP/2 304 Not Modified
+Date: Wed, 17 Dec 2025 06:52:50 GMT
+Via: 1.1 varnish
+Etag: "3971444f58a5e6520f9de3a53853837d"
+Age: 408
+X-Served-By: cache-gru-sbgr1930077-GRU
+X-Cache: HIT
+X-Cache-Hits: 462
+X-Timer: S1765954370.162090,VS0,VE0
+Vary: Accept-Encoding
+Abp: 82
+Cache-Control: private, max-age=3600
+Access-Control-Allow-Origin: *
+X-Fastly-Object-Storage: false
+
