@@ -1,0 +1,10 @@
+GET /api/v1/suggest?q=&providers=accuweather&request_type=weather&source=newtab&country=BR&region=GO&city=Goi%C3%A2nia&sid=5cc28003-2c28-4a99-8d33-5992d953aec1&seq=0 HTTP/1.1
+Host: merino.services.mozilla.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Priority: u=4
+Te: trailers
+Connection: close
+
