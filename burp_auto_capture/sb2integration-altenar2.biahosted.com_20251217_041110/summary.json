@@ -1,0 +1,39 @@
+{
+  "capture_timestamp": "20251217_041110", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/request_001.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/M1pYSjBlV2hxYm5Oa0lHMHNMbU1nYW/Y21GdVpHOXRJR0oxYkd4emFHbDBJR2R2?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&ge3F6uCFVIZiI=esportiva", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/response_001.txt", 
+      "timestamp": 1765951603107
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/request_002.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/Widget/GetWidgetsConfiguration?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&theme=light", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/response_002.txt", 
+      "timestamp": 1765951603120
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/request_003.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/M1pYSjBlV2hxYm5Oa0lHMHNMbU1nYW/Y21GdVpHOXRJR0oxYkd4emFHbDBJR2R2?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&ge3F6uCFVIZiI=esportiva", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/response_003.txt", 
+      "timestamp": 1765954726275
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/request_004.txt", 
+      "url": "https://sb2integration-altenar2.biahosted.com:443/api/Widget/GetWidgetsConfiguration?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&theme=light", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2integration-altenar2.biahosted.com_20251217_041110/response_004.txt", 
+      "timestamp": 1765954726280
+    }
+  ], 
+  "host": "sb2integration-altenar2.biahosted.com", 
+  "total_requests": 4
+}
