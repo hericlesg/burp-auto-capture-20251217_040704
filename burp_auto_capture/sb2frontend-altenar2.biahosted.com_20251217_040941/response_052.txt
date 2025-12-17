@@ -1,0 +1,15 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 07:00:29 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Age: 1
+Cache-Control: public,max-age=15
+Vary: Accept-Encoding
+Via: 1.1 google
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Cf-Cache-Status: HIT
+Last-Modified: Wed, 17 Dec 2025 07:00:28 GMT
+Server: cloudflare
+Cf-Ray: 9af48b36cdbadf57-GIG
+
+{"champs":[{"offers":[{"type":0,"parameter":2}],"shortName":"Intercontinental","hasLiveEvents":false,"id":49055,"name":"Copa Intercontinental "},{"offers":[{"type":0,"parameter":2},{"type":2}],"iconName":"BRA","hasLiveEvents":false,"id":3973,"name":"Copa do Brasil"},{"offers":[{"type":0,"parameter":2}],"iconName":"ENG","hasLiveEvents":false,"id":2936,"name":"Premier League"},{"offers":[{"type":0,"parameter":2},{"type":2}],"iconName":"ESP","hasLiveEvents":false,"id":2941,"name":"LaLiga"},{"offers":[{"type":0,"parameter":2}],"iconName":"ITA","hasLiveEvents":false,"id":2942,"name":"S\u00E9rie A"},{"offers":[{"type":0,"parameter":2},{"type":2}],"iconName":"DEU","hasLiveEvents":false,"id":2950,"name":"Bundesliga"},{"offers":[{"type":0,"parameter":2},{"type":2}],"iconName":"FRA","hasLiveEvents":false,"id":2943,"name":"Ligue 1"},{"offers":[{"type":0,"parameter":20}],"iconName":"USA","hasLiveEvents":false,"id":2980,"name":"NBA"},{"shortName":"DreamLeague 27","iconName":"e05","hasLiveEvents":false,"id":58561,"name":"DreamLeague 27"}],"sports":[{"catIds":[1134,593,497,501,502,506,503],"typeId":1,"iconName":"soccer","hasLiveEvents":false,"id":66,"name":"Futebol"},{"catIds":[522],"typeId":12,"iconName":"basketball","hasLiveEvents":false,"id":67,"name":"Basquete"},{"catIds":[1533],"typeId":317,"iconName":"e-sports-\u002B","hasLiveEvents":false,"id":145,"name":"E-sports \u002B\t\t"}],"categories":[{"champIds":[49055],"hasLiveEvents":false,"id":1134,"name":"Mundo"},{"champIds":[3973],"iso":"BRA","hasLiveEvents":false,"id":593,"name":"Brasil"},{"champIds":[2936],"iso":"ENG","hasLiveEvents":false,"id":497,"name":"Inglaterra"},{"champIds":[2941],"iso":"ESP","hasLiveEvents":false,"id":501,"name":"Espanha"},{"champIds":[2942],"iso":"ITA","hasLiveEvents":false,"id":502,"name":"It\u00E1lia"},{"champIds":[2950],"iso":"DEU","hasLiveEvents":false,"id":506,"name":"Alemanha"},{"champIds":[2943],"iso":"FRA","hasLiveEvents":false,"id":503,"name":"Fran\u00E7a"},{"champIds":[2980],"iso":"USA","hasLiveEvents":false,"id":522,"name":"Estados Unidos"},{"champIds":[58561],"iso":"e05","hasLiveEvents":false,"id":1533,"name":"Dota2"}]}
