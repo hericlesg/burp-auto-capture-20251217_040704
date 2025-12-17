@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_040857", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/hitbr.acstat.com_20251217_040857/request_001.txt", 
+      "url": "https://hitbr.acstat.com:443/esportivabetbr/?sid=1a270455-988d-3071-2e40-c8022e359844&t_tid=586e20ec-5b84-1b6f-35d1-2229bb64e2eb&t_dp=&wid=&par=&ref=&t_t=&t_if=0&t_s=&ih=935&iw=1193&if_p=&s_w=2560&s_h=1080&land=https%3A%2F%2Fesportiva.bet.br%2F", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/hitbr.acstat.com_20251217_040857/response_001.txt", 
+      "timestamp": 1765954367940
+    }
+  ], 
+  "host": "hitbr.acstat.com", 
+  "total_requests": 1
+}
