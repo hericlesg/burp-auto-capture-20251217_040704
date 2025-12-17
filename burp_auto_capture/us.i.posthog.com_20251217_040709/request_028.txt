@@ -1,0 +1,17 @@
+POST /e/?ip=0&_=1765954374633&ver=1.307.0 HTTP/2
+Host: us.i.posthog.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Content-Type: application/json
+Referer: https://esportiva.bet.br/
+Content-Length: 2918
+Origin: https://esportiva.bet.br
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: cross-site
+Priority: u=4
+Te: trailers
+
+[{"uuid":"019b2b15-402e-7f48-b5b5-5945c482ca13","event":"$web_vitals","properties":{"$os":"Windows","$os_version":"10","$browser":"Firefox","$device_type":"Desktop","$timezone":"America/Sao_Paulo","$timezone_offset":180,"$current_url":"https://esportiva.bet.br/","$host":"esportiva.bet.br","$pathname":"/","$raw_user_agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0","$browser_version":146,"$browser_language":"pt-BR","$browser_language_prefix":"pt","$screen_height":1080,"$screen_width":2560,"$viewport_height":935,"$viewport_width":1193,"$lib":"web","$lib_version":"1.307.0","$insert_id":"0cizybe121xpcz5g","$time":1765954371.631,"distinct_id":"019b2998-5fe2-7db6-996c-501d48039a7a","$initialization_time":"2025-12-17T06:52:46.507Z","$configured_session_timeout_ms":1800000,"$device_id":"019b2998-5fe2-7db6-996c-501d48039a7a","$autocapture_disabled_server_side":false,"$web_vitals_enabled_server_side":false,"$exception_capture_enabled_server_side":false,"$active_feature_flags":[],"$feature_flag_payloads":{},"$feature_flag_request_id":"d9a738a1-64e9-441f-b3e3-4b2e4b6b4c29","$feature_flag_evaluated_at":1765951510044,"$sdk_debug_extensions_init_method":"synchronous","$sdk_debug_extensions_init_time_ms":6,"$referrer":"$direct","$referring_domain":"$direct","$web_vitals_FCP_event":{"name":"FCP","value":905,"rating":"good","delta":905,"entries":[{}],"id":"v4-1765954366618-3819613497921","navigationType":"navigate","attribution":{"timeToFirstByte":0,"firstByteToFCP":905,"loadState":"complete"},"$current_url":"https://esportiva.bet.br/","$session_id":"019b2b14-911b-7bb4-987f-286ad15079fa","$window_id":"019b2b15-2c51-7186-ab73-ecfddf9b811f","timestamp":1765954366619},"$web_vitals_FCP_value":905,"$web_vitals_LCP_event":{"name":"LCP","value":1485,"rating":"good","delta":1485,"entries":[{}],"id":"v4-1765954366618-7859162447849","navigationType":"navigate","attribution":{"timeToFirstByte":0,"resourceLoadDelay":0,"resourceLoadDuration":0,"elementRenderDelay":1485},"$current_url":"https://esportiva.bet.br/","$session_id":"019b2b14-911b-7bb4-987f-286ad15079fa","$window_id":"019b2b15-2c51-7186-ab73-ecfddf9b811f","timestamp":1765954366998},"$web_vitals_LCP_value":1485,"token":"phc_StrOzjrSaCpxiIV9ZvNywgiSzhAF32QpUyLY0wAM4zE","$config_defaults":"2025-11-30","$session_id":"019b2b14-911b-7bb4-987f-286ad15079fa","$window_id":"019b2b15-2c51-7186-ab73-ecfddf9b811f","$session_entry_referrer":"https://www.google.com/","$session_entry_referring_domain":"www.google.com","$session_entry_url":"https://esportiva.bet.br/sports","$session_entry_host":"esportiva.bet.br","$session_entry_pathname":"/sports","$session_entry_search_engine":"google","$recording_status":"lazy_loading","$sdk_debug_retry_queue_size":0,"$pageview_id":"019b2b15-2c4f-7a2a-9740-557a314a0517","$is_identified":false,"$process_person_profile":false,"$lib_rate_limit_remaining_tokens":99},"offset":3003}]
