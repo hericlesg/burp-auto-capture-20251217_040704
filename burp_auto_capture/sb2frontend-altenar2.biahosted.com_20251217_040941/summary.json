@@ -1,0 +1,519 @@
+{
+  "capture_timestamp": "20251217_040941", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_001.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/WidgetTranslation/StaticTranslations?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_001.txt", 
+      "timestamp": 1765951603107
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_002.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/Widget/GetSportInfo?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_002.txt", 
+      "timestamp": 1765951605048
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_003.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&period=0", 
+      "sequence_number": 3, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_003.txt", 
+      "timestamp": 1765951605637
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_004.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 4, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_004.txt", 
+      "timestamp": 1765951605637
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_005.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 5, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_005.txt", 
+      "timestamp": 1765951605637
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_006.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&eventCount=0&sportId=0&timePeriod=1", 
+      "sequence_number": 6, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_006.txt", 
+      "timestamp": 1765951605644
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_007.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&betCardListId=282&sportId=0", 
+      "sequence_number": 7, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_007.txt", 
+      "timestamp": 1765951605644
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_008.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&eventCount=0&sportId=0&timePeriod=0", 
+      "sequence_number": 8, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_008.txt", 
+      "timestamp": 1765951605644
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_009.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetUpcoming?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 9, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_009.txt", 
+      "timestamp": 1765951605785
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_010.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetHighlights?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=10&sportId=0", 
+      "sequence_number": 10, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_010.txt", 
+      "timestamp": 1765951605785
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_011.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&betCardListId=259&sportId=0", 
+      "sequence_number": 11, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_011.txt", 
+      "timestamp": 1765951605789
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_012.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopOutrights?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 12, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_012.txt", 
+      "timestamp": 1765951605790
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_013.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 13, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_013.txt", 
+      "timestamp": 1765951605836
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_014.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetLivenow?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 14, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_014.txt", 
+      "timestamp": 1765951605836
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_015.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 15, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_015.txt", 
+      "timestamp": 1765951605849
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_016.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 16, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_016.txt", 
+      "timestamp": 1765951607788
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_017.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&betCardListId=259&sportId=0&regDate=2025-12-17T06%3A06%3A45.2314262Z", 
+      "sequence_number": 17, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_017.txt", 
+      "timestamp": 1765951607840
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_018.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 18, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_018.txt", 
+      "timestamp": 1765951610100
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_019.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/Widget/GetSportInfo?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 19, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_019.txt", 
+      "timestamp": 1765951610125
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_020.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&betCardListId=282&sportId=0", 
+      "sequence_number": 20, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_020.txt", 
+      "timestamp": 1765951610713
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_021.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=0&sportId=0&timePeriod=0", 
+      "sequence_number": 21, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_021.txt", 
+      "timestamp": 1765951610776
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_022.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 22, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_022.txt", 
+      "timestamp": 1765951610870
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_023.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 23, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_023.txt", 
+      "timestamp": 1765951611179
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_024.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=0&sportId=0&timePeriod=1", 
+      "sequence_number": 24, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_024.txt", 
+      "timestamp": 1765951611368
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_025.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetLivenow?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 25, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_025.txt", 
+      "timestamp": 1765951613716
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_026.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 26, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_026.txt", 
+      "timestamp": 1765951622350
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_027.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 27, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_027.txt", 
+      "timestamp": 1765951622370
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_028.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 28, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_028.txt", 
+      "timestamp": 1765951622370
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_029.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 29, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_029.txt", 
+      "timestamp": 1765951622381
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_030.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 30, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_030.txt", 
+      "timestamp": 1765951688981
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_031.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 31, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_031.txt", 
+      "timestamp": 1765951689058
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_032.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/WidgetTranslation/StaticTranslations?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 32, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_032.txt", 
+      "timestamp": 1765954726256
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_033.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/Widget/GetSportInfo?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 33, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_033.txt", 
+      "timestamp": 1765954731872
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_034.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&betCardListId=259&sportId=0", 
+      "sequence_number": 34, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_034.txt", 
+      "timestamp": 1765954732410
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_035.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 35, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_035.txt", 
+      "timestamp": 1765954732411
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_036.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&betCardListId=282&sportId=0", 
+      "sequence_number": 36, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_036.txt", 
+      "timestamp": 1765954732431
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_037.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 37, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_037.txt", 
+      "timestamp": 1765954732431
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_038.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&eventCount=0&sportId=0&timePeriod=0", 
+      "sequence_number": 38, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_038.txt", 
+      "timestamp": 1765954732435
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_039.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetUpcoming?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 39, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_039.txt", 
+      "timestamp": 1765954732559
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_040.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetClickableSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 40, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_040.txt", 
+      "timestamp": 1765954732560
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_041.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 41, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_041.txt", 
+      "timestamp": 1765954732595
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_042.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&eventCount=0&sportId=0&timePeriod=1", 
+      "sequence_number": 42, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_042.txt", 
+      "timestamp": 1765954732595
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_043.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetLivenow?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 43, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_043.txt", 
+      "timestamp": 1765954732596
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_044.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB", 
+      "sequence_number": 44, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_044.txt", 
+      "timestamp": 1765954732596
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_045.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetHighlights?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=10&sportId=0", 
+      "sequence_number": 45, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_045.txt", 
+      "timestamp": 1765954732596
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_046.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetCards/GetBetCards?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&betCardListId=259&sportId=0&regDate=2025-12-17T06%3A58%3A51.9266374Z", 
+      "sequence_number": 46, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_046.txt", 
+      "timestamp": 1765954738042
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_047.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 47, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_047.txt", 
+      "timestamp": 1765954738076
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_048.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetTopEvents?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=0&sportId=0&timePeriod=1", 
+      "sequence_number": 48, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_048.txt", 
+      "timestamp": 1765954743150
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_049.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetLivenow?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&eventCount=5&sportId=0", 
+      "sequence_number": 49, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_049.txt", 
+      "timestamp": 1765954744040
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_050.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetClickableSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 50, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_050.txt", 
+      "timestamp": 1765954745651
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_051.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 51, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_051.txt", 
+      "timestamp": 1765954745690
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_052.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 52, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_052.txt", 
+      "timestamp": 1765954829950
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_053.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetClickableSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 53, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_053.txt", 
+      "timestamp": 1765954830176
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_054.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 54, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_054.txt", 
+      "timestamp": 1765954868928
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_055.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 55, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_055.txt", 
+      "timestamp": 1765954868966
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_056.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 56, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_056.txt", 
+      "timestamp": 1765954868974
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_057.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetClickableSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 57, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_057.txt", 
+      "timestamp": 1765954873988
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_058.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 58, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_058.txt", 
+      "timestamp": 1765954889363
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_059.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 59, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_059.txt", 
+      "timestamp": 1765954889363
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_060.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 60, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_060.txt", 
+      "timestamp": 1765954889370
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_061.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetPopularBets?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 61, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_061.txt", 
+      "timestamp": 1765954902626
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_062.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/BetMentor/GetSettings?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&currencyId=986", 
+      "sequence_number": 62, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_062.txt", 
+      "timestamp": 1765954902626
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_063.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetSportMenu?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR&period=0", 
+      "sequence_number": 63, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_063.txt", 
+      "timestamp": 1765954902626
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/request_064.txt", 
+      "url": "https://sb2frontend-altenar2.biahosted.com:443/api/widget/GetFavouritesChamps?culture=pt-BR&timezoneOffset=180&integration=esportiva&deviceType=1&numFormat=en-GB&countryCode=BR", 
+      "sequence_number": 64, 
+      "response_file": "burp_auto_capture/sb2frontend-altenar2.biahosted.com_20251217_040941/response_064.txt", 
+      "timestamp": 1765954902653
+    }
+  ], 
+  "host": "sb2frontend-altenar2.biahosted.com", 
+  "total_requests": 64
+}
