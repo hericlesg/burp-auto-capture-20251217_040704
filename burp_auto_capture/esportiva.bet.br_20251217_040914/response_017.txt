@@ -1,0 +1,9 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:57:40 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Length: 0
+Cf-Ray: 9af487122c44e015-GIG
+Cache-Control: private, max-age=0, no-store, no-cache, must-revalidate, post-check=0, pre-check=0
+Set-Cookie: cf_clearance=rSEgKvgyi8zz8_FTUZn4jZOY_VI2R.Skxlzv9AHp7B0-1765954660-1.2.1.1-kj0x_GJbWTxZLlyGbOgvdhbb75Z0__dQMRwZb88BOmZl7ky724tqrLYr_1iZ2LuVSbBlSUG134.gkya0lmgWzOsV3ZpyzbK2hfG7ET8FO0jq4.FO7geURtRBc7RXKg1pXy6SB8TUK4Ac8KSzZsrgBmSbiMvynjRYmiK0bLTGZF06VFcfSwJ1smTgH8jWAizqEzm4pJu38Q_uCNFRwtl7CafZCmfWrIav8ZeOssF0arY; HttpOnly; SameSite=None; Partitioned; Secure; Path=/; Domain=esportiva.bet.br; Expires=Thu, 17 Dec 2026 06:57:40 GMT
+Server: cloudflare
+
