@@ -1,0 +1,23 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:52:46 GMT
+Content-Type: text/html; charset=UTF-8
+Access-Control-Allow-Credentials: false
+Access-Control-Allow-Headers: Content-Type
+Access-Control-Allow-Methods: GET, OPTIONS
+Access-Control-Allow-Origin: *
+Report-To: {"group":"cf-nel","max_age":604800,"endpoints":[{"url":"https://a.nel.cloudflare.com/report/v4?s=4Q0iPzVZG%2FEZwaGFNw7ZxikcszPMpwmnVzsxYgS7itkM2CmkpoerJFdMWiq%2BqX9Jl3Yb2ut8Ps0lZBykOcBQG105kqqQKUusHrFn9o2R3l63k7cTETQ8"}]}
+Server: cloudflare
+X-Powered-By: PHP/8.2.29
+Cf-Cache-Status: DYNAMIC
+Vary: accept-encoding
+Nel: {"report_to":"cf-nel","success_fraction":0.0,"max_age":604800}
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server-Timing: cfEdge;dur=2,cfOrigin;dur=226
+Cf-Ray: 9af47fe4c88af1e7-GRU
+Alt-Svc: h3=":443"; ma=86400
+
+<script>
+    const toLoad = "null";
+</script>
+<script src="assets/js/cookie-retrive.min.js"></script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/vcd15cbe7772f49c399c6a5babf22c1241717689176015" integrity="sha512-ZpsOmlRQV6y907TI0dKBHq9Md29nnaEIPlkf84rnaERnq6zvWvPUqr2ft8M1aS28oN72PdrCzSjY4U6VaAw1EQ==" data-cf-beacon='{"version":"2024.11.0","token":"ba30f6a6909d474eb1cff24892f80494","r":1,"server_timing":{"name":{"cfCacheStatus":true,"cfEdge":true,"cfExtPri":true,"cfL4":true,"cfOrigin":true,"cfSpeedBrain":true},"location_startswith":null}}' crossorigin="anonymous"></script>
