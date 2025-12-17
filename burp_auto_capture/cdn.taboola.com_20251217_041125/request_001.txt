@@ -1,0 +1,16 @@
+GET /scripts/cds-pips.js?dc=ch&d=d HTTP/1.1
+Host: cdn.taboola.com
+Cookie: t_gid=6b5d6a96-d169-4749-b00f-3d04ecb372cc-tuctfd5d371; t_pt_gid=6b5d6a96-d169-4749-b00f-3d04ecb372cc-tuctfd5d371
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:146.0) Gecko/20100101 Firefox/146.0
+Accept: */*
+Accept-Language: pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3
+Accept-Encoding: gzip, deflate
+Referer: https://esportiva.bet.br/
+Sec-Fetch-Dest: script
+Sec-Fetch-Mode: no-cors
+Sec-Fetch-Site: cross-site
+If-Modified-Since: Wed, 15 Oct 2025 07:00:48 GMT
+If-None-Match: "3971444f58a5e6520f9de3a53853837d"
+Te: trailers
+Connection: close
+
