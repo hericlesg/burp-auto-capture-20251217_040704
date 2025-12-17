@@ -1,0 +1,23 @@
+{
+  "capture_timestamp": "20251217_040841", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/secure.livechatinc.com_20251217_040841/request_001.txt", 
+      "url": "https://secure.livechatinc.com:443/customer/action/open_chat?license_id=18779004&group=0&embedded=1&widget_version=3&unique_groups=1&organization_id=be90df1c-e018-440e-8b5a-fd47f5dbbd3e&use_parent_storage=1&x-region=us-south1", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/secure.livechatinc.com_20251217_040841/response_001.txt", 
+      "timestamp": 1765951513323
+    }, 
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/secure.livechatinc.com_20251217_040841/request_002.txt", 
+      "url": "https://secure.livechatinc.com:443/customer/action/open_chat?license_id=18779004&group=0&embedded=1&widget_version=3&unique_groups=1&organization_id=be90df1c-e018-440e-8b5a-fd47f5dbbd3e&use_parent_storage=1&x-region=us-south1", 
+      "sequence_number": 2, 
+      "response_file": "burp_auto_capture/secure.livechatinc.com_20251217_040841/response_002.txt", 
+      "timestamp": 1765954371621
+    }
+  ], 
+  "host": "secure.livechatinc.com", 
+  "total_requests": 2
+}
