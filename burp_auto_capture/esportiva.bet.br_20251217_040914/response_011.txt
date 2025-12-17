@@ -1,0 +1,10 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:52:45 GMT
+Content-Type: application/json
+Content-Length: 18
+Cf-Ray: 9af47fe33af357c9-GIG
+Cache-Control: no-cache
+Vary: Accept-Encoding
+Server: cloudflare
+
+{"isUpdated":true}
