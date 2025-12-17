@@ -1,0 +1,12 @@
+HTTP/2 200 OK
+Server: nginx
+Date: Wed, 17 Dec 2025 06:06:45 GMT
+Content-Type: application/json; charset=utf-8
+Content-Length: 856
+Access-Control-Allow-Origin: *
+Cache-Control: public,max-age=30
+Strict-Transport-Security: max-age=15552000
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+
+{"countryCode":"BR","stateCode":null,"maxSelectionCount":30,"minTotalStake":0.5,"minUnitStake":0.01,"defaultStake":10.0,"minOdds":1.01,"minOddsForOutrights":1.02,"allowDecimals":2,"oddsDecimals":4,"oddsRounding":0,"multipleOddsDecimals":6,"multipleOddsRounding":1,"winningsPayout":0,"rejectMixVirtual":false,"trueSystemBetsEnabled":false,"smartFoldCap":2000,"showRejectedBetsInBetsHistory":false,"isAutomatedPrintEnabled":false,"rejectMixHorseRacing":true,"streamBgCustomerId":"8585","showExpandedBetHistory":false,"displayInFiat":false,"defaultFiatCurrency":"USD","enableBonusPolling":false,"bMDefaultStake":10.0,"betAcceptanceSettings":{"oddsChangeSettings":[0,1,2,3]},"predefinedStakes":null,"betradarLMTClientID":null,"showAllInButton":false,"displayInFiatState":false,"enableStreaming":true,"boostedOddsDenmarkView":false,"betSlipOverrideStake":false}
