@@ -1,0 +1,15 @@
+{
+  "capture_timestamp": "20251217_041123", 
+  "requests": [
+    {
+      "method": "GET", 
+      "request_file": "burp_auto_capture/gravity-service.n10.xyz_20251217_041123/request_001.txt", 
+      "url": "https://gravity-service.n10.xyz:443/?retrieve=esportiva.bet.br", 
+      "sequence_number": 1, 
+      "response_file": "burp_auto_capture/gravity-service.n10.xyz_20251217_041123/response_001.txt", 
+      "timestamp": 1765954366496
+    }
+  ], 
+  "host": "gravity-service.n10.xyz", 
+  "total_requests": 1
+}
