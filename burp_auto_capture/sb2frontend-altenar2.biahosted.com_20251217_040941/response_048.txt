@@ -1,0 +1,13 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:59:03 GMT
+Content-Type: application/json; charset=utf-8
+Access-Control-Allow-Origin: *
+Cache-Control: public,max-age=3
+Vary: Accept-Encoding
+Via: 1.1 google
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 9af489183ca206c5-GRU
+
+{"markets":[],"odds":[],"events":[],"sports":[],"categories":[],"champs":[],"competitors":[]}
