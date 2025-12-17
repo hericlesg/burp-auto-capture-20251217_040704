@@ -1,0 +1,11 @@
+HTTP/2 200 OK
+Date: Wed, 17 Dec 2025 06:07:31 GMT
+Content-Type: application/json; charset=utf-8
+Server: cloudflare
+Access-Control-Allow-Origin: *
+Strict-Transport-Security: max-age=2592000; includeSubDomains
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Cf-Ray: 9af43d9deb67aea8-GRU
+
+{"bonuses":[{"id":58672328,"status":1,"planName":"FreeBet ð disponÃ­vel para Final da copa do brasil - Corinthians x Vasco","rolloverProgress":0.0,"createdDate":"2025-12-17T06:07:28.89Z","expiredDate":"2025-12-18T06:07:28.91Z","currency":"BRL","initialBonus":5.0000,"amount":5.0000,"remain":0.0000,"isCancelAvailable":false,"type":6}]}
